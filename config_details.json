@@ -1,0 +1,7 @@
+{
+	"branch": "master",
+	"credentials": "BITBUCKET_CREDS",
+	"url": "https://github.com/Ankit-Arni/sample_angular.git",
+	"node": "master",
+	"shellScriptFile": "execute_project.sh"
+}
